@@ -21,7 +21,9 @@
         "vmware.vscode-spring-boot", // Spring         
         "vscjava.vscode-spring-boot-dashboard", // Dashboard do aplicativo
         "cweijan.vscode-mysql-client2", // MySQl
-        "vscjava.vscode-spring-initializr" // Inicializador de projetos Spring
+        "vscjava.vscode-spring-initializr", // Inicializador de projetos Spring
+        "pkief.material-icon-theme",
+        "oderwat.indent-rainbow"
       ],
       // Configurações visuais do Visual Studio Code
       "settings": {
